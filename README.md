@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![tee](https://github.com/user-attachments/assets/60008a27-e628-4ed2-85b9-8214feaf7d93)
 <!--
 **Makutosi/Makutosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Take a deep breath, have a cup of tea, and please wait a moment!　Thank you.
