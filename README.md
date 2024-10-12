@@ -62,4 +62,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Take a deep breath, have a cup of tea, and please wait a moment!　Thank you.
+<!--Take a deep breath, have a cup of tea, and please wait a moment!　Thank you.-->
+<!--### 🌱Languages & Tools
+
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-green?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/Code-PHP-8892BF?style=flat-square&logo=php)
+![WordPress](https://img.shields.io/badge/CMS-WordPress-blue?style=flat-square&logo=wordpress)
+
+![Git](https://img.shields.io/badge/Version%20Control-Git-red?style=flat-square&logo=git)
+![SQL](https://img.shields.io/badge/Database-SQL-blue?style=flat-square&logo=mysql)
+
+![Unity](https://img.shields.io/badge/Game%20Engine-Unity-black?style=flat-square&logo=unity)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma)
+![MuseScore](https://img.shields.io/badge/Music-MuseScore-1D8CF8?style=flat-square&logo=musescore)
+-->
+
