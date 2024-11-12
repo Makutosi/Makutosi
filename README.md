@@ -7,7 +7,7 @@
 </p>
 <!--
 <p align="left" style="font-size: 1.2em;">
-    👋 Hi, I'm Eriko, a Japanese living in Finland. I have completed my studies as a software developer and am currently looking for a job while continuing to study every day. I'm particularly interested in web development. </p>
+    👋 Hi, I'm Makutosi, a Japanese living in Finland. I have completed my studies as a software developer and am currently looking for a job while continuing to study every day. I'm particularly interested in web development. </p>
 
 <p align="left" style="font-size: 1.2em;">  
  🎶 I am also a musician, and I want to incorporate classical music into software development. In an era of rapid digitalization, art that takes time is often undervalued, but it is a truly valuable field for us. My dream is to make classical music more accessible through ICT.</p>
