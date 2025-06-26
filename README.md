@@ -7,13 +7,13 @@
 </p>
 <!--
 <p align="left" style="font-size: 1.2em;">
-    👋 Hi, I'm Makutosi, a Japanese living in Finland. I have completed my studies as a software developer and am currently looking for a job while continuing to study every day. I'm particularly interested in web development. </p>
+    👋 Hi, I'm Makutosi, a classical musician from Japan living in Finland, currently exploring the world of software development. </p>
 
 <p align="left" style="font-size: 1.2em;">  
- 🎶 I am also a musician, and I want to incorporate classical music into software development. In an era of rapid digitalization, art that takes time is often undervalued, but it is a truly valuable field for us. My dream is to make classical music more accessible through ICT.</p>
+ 🎶 I'm passionate about bringing classical music and software development together. In an age of rapid digitalization, slow and thoughtful art is often undervalued — but I believe it holds lasting value. My dream is to make classical music more accessible through ICT.</p>
 
 <p align="left" style="font-size: 1.2em;">
-💚 My favorites: green tea, music, walking, yoga, trekking. </p>
+💚 In daily life, I value the balance between body and mind. I love green tea, dark chocolate, long walks in nature, and classical music. </p>
 
 <h4 align="left" style="border-bottom: none;">🛠️Languages and Tools:</h4>
 <p align="left" style="border-bottom: none;">
