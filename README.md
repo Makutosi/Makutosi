@@ -5,12 +5,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/60008a27-e628-4ed2-85b9-8214feaf7d93" width="80">
 </p>
-<!--
+
 <p align="left" style="font-size: 1.2em;">
     👋 Hi, I'm Makutosi, a classical musician from Japan living in Finland, currently exploring the world of software development. </p>
 
 <p align="left" style="font-size: 1.2em;">  
- 🎶 I'm passionate about bringing classical music and software development together. In an age of rapid digitalization, slow and thoughtful art is often undervalued — but I believe it holds lasting value. My dream is to make classical music more accessible through ICT.</p>
+ 🎶 I'm passionate about combining classical music with programming. In an era of rapid digitalization, time-honored arts like classical music can be overlooked — but they hold deep value. My dream is to make classical music more accessible through ICT.</p>
 
 <p align="left" style="font-size: 1.2em;">
 💚 In daily life, I value the balance between body and mind. I love green tea, dark chocolate, long walks in nature, and classical music. </p>
@@ -45,7 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
   </a>
 </p>
--->
+
 <!--![tee](https://github.com/user-attachments/assets/60008a27-e628-4ed2-85b9-8214feaf7d93)-->
 <!--
 **Makutosi/Makutosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
